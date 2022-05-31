@@ -7,7 +7,6 @@ on dev branch [dev](https://shams-server-deploy-dev.herokuapp.com/)
 ## Action on my Repo 
 
 [action](https://github.com/shamssar/server-deployment-practice/actions)
-
 ## Steps to deplyed server :
 - Create a new repository on GitHub
 - create a “dev” branch 
