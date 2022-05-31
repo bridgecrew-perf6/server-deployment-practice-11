@@ -1,8 +1,9 @@
 # server-deployment-practice
 
 ## Heroku deployed link 
-[server](https://shams-server-deploy-dev.herokuapp.com/)
+on main branch [server](https://shams-server-deploy-dev.herokuapp.com/)
 
+on dev branch [dev](https://shams-server-deploy-dev.herokuapp.com/)
 ## Action on my Repo 
 
 [action](https://github.com/shamssar/server-deployment-practice/actions)
